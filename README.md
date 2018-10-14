@@ -2,7 +2,7 @@
 > *Hold the Vision, Trust the Process.*
 
 # Natural Language Processing: A Py Kick-off Digest! 
-*A computer could be considered intelligent if it could carry on a conversation with a human being without the human realizing they were talking to a machine. -Alan Turing*
+"*A computer could be considered intelligent if it could carry on a conversation with a human being without the human realizing they were talking to a machine. -Alan Turing*"
 ###### Natural Language Processing in Python.
 
 **Why?**
