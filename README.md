@@ -21,16 +21,16 @@ So, I decided to bring all these resources to one place and make a kick-off dige
 
 ## 📄 Table of contents
 
-  * [1. Introduction](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Introduction)
-  * [2. Data Extraction](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/0_Data_Extraction)
-  * [3. Data Preprocessing Cleaning](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/1_Data_Preprocessing_Cleaning)
-  * [4. Data Preprocessing Normalization](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/2_Data_Preprocessing_Normalization)
-  * [5. PartOfSpeech Tagging](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/3_PartOfSpeech_Tagging)
-  * [6. Named Entity Recognition](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/4_Named_Entity_Recognition)
-  * [7. Word Embeddings](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/5_Word_Embeddings)
-  * [8. Text Summarisation](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Task1_Text_Summarisation)
-  * [9. Text Classification](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Task2_Sentiment_Analysis)
-  * [10. Sentiment Analysis](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Task2_Sentiment_Analysis)
+  [1. Introduction](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Introduction)
+  [2. Data Extraction](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/0_Data_Extraction)
+  [3. Data Preprocessing Cleaning](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/1_Data_Preprocessing_Cleaning)
+  [4. Data Preprocessing Normalization](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/2_Data_Preprocessing_Normalization)
+  [5. PartOfSpeech Tagging](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/3_PartOfSpeech_Tagging)
+  [6. Named Entity Recognition](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/4_Named_Entity_Recognition)
+  [7. Word Embeddings](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/5_Word_Embeddings)
+  [8. Text Summarisation](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Task1_Text_Summarisation)
+  [9. Text Classification](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Task2_Sentiment_Analysis)
+  [10. Sentiment Analysis](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Task2_Sentiment_Analysis)
   
 ### Key Concepts in NLP
 
