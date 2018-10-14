@@ -6,9 +6,7 @@ Created on Thu Sep  6 11:43:48 2018
 @author: Rohan
 
 Building a corpus from Wikipedia dump file.
-Download Data from:
-    
-https://dumps.wikimedia.org/enwiki/latest/
+Download Data from: https://dumps.wikimedia.org/enwiki/latest/
 """
 
 # pip intall gensim
