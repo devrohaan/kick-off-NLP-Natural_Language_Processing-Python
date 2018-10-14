@@ -59,10 +59,7 @@ Kindly visit my [kick-off-web-scraping-python-selenium-beautifulsoup](https://gi
    
    3.3 [Premier_League_score_table](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup/tree/master/premier_league_score_table)
    
-   3.4 [Bhagavad Gita Lessons](https://githu### 2. Online Datasets
- -   2.1 [Wikipedia](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/wiki_Corpus/wikipedia_DataExtract.py)
- -   2.2 [Twitter](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/twitter/twitterDataExtract.py)
-b.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/ScrapDataK/scrapDataKCDIssue.py)
+   3.4 [Bhagavad Gita Lessons](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/ScrapDataK/scrapDataKCDIssue.py)
    
    3.5 [Akbar_Birbal_Stories](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/Eg_Data_Extraction_WebScarping/quickDataScrap.py)
 
