@@ -222,7 +222,7 @@ And, a single word, instead of being represented in N dimensions will be represe
 
 #### 2 Prediction based Vector
 
-###### Pre-requisite: Knowledge of how a neural network works and the mechanisms by which weights in an NN are updated. Kindly go throgh [Kick-off]() for better understanding of ANN working.
+###### Pre-requisite: Knowledge of how a neural network works and the mechanisms by which weights in an NN are updated. Kindly go throgh [The_First_Artificial_Neural_Network](https://github.com/robagwe/kick-off-Oracle_of_Football-The_First_Artificial_Neural_Network) for better understanding of ANN working.
  
 
 Tomas Mikolov at Google introduced word2vec algorithm to the world. Embedding vectors created using the Word2vec algorithm have many advantages compared to earlier algorithms. This algorithm was prediction based in the sense that they provided probabilities to the words and proved to be state of the art for tasks like word analogies and word similarities.
@@ -232,7 +232,7 @@ Tomas Mikolov at Google introduced word2vec algorithm to the world. Embedding ve
 
 ### Word2vec is not a single algorithm but a combination of two techniques – CBOW (Continuous bag of words) and Skip-gram model. 
 
-![w2v](https://github.com/robagwe/wisdomic-panda/blob/master/w2v.png)
+![w2v](https://github.com/robagwe/wisdomic-panda/blob/master/imgs/w2v.png)
 
 ###### 2.1 CBOW (Continuous bag of words)
 
@@ -240,7 +240,7 @@ CBOW tends to predict the probability of a word given a context. A context may b
 
 CBOW uses the context or surrounding words as input. For instance, if the context window C is set to C=5, then the input would be words at positions w(t-2), w(t-1), w(t+1), and w(t+2). Basically the two words before and after the center word w(t). Given this information, CBOW then tries to predict the target word.
 
-![onehot](https://github.com/robagwe/wisdomic-panda/blob/master/1hot.png)
+![onehot](https://github.com/robagwe/wisdomic-panda/blob/master/imgs/1hot.png)
 
 
 ###### 2.2 Skip-gram model
@@ -292,5 +292,5 @@ The distributional hypothesis states that words which often have the same neighb
 
 - Text Vectors can be used as feature vectors for ML model, used to measure text similarity using cosine similarity techniques, words clustering and text classification techniques.
 
-![pun](https://github.com/robagwe/wisdomic-panda/blob/master/pun.jpeg)
+![pun](https://github.com/robagwe/wisdomic-panda/blob/master/imgs/pun.jpeg)
 
