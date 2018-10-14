@@ -119,7 +119,7 @@ We divide the batch of features along with the created labels into a train and t
 
 > :pushpin: I will train some basic models with Scikit learn as it is one of the standard tools for text processing, NLP, and Machine learning. It eases the development of NLP applications and has a plethora of Machine Learning models and tools. 
 
-The code for building a Text Classfifcation model: [kick-NBC]()
+The code for building a Text Classfifcation model: [kick-off-NBC](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/Task3_Text_Classification/basicSA_NB.py)
 
 
 :scroll: [Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.9153&rep=rep1&type=pdf)
