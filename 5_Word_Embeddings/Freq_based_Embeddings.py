@@ -12,7 +12,7 @@ import pickle
 
 
 dataset = list()
-with open('/Users/Rohan/Desktop/3rdAug/NLP/data/NoiseFreeWordList.pkl', 'rb') as handle:
+with open('/Users/Rohan/git/NLP/data/NoiseFreeWordList.pkl', 'rb') as handle:
     dataset = pickle.load(handle)
             
 print(dataset[0])
