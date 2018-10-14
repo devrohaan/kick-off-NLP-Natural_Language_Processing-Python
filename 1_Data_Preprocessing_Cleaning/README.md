@@ -56,6 +56,11 @@ Let's assume we obtained a corpus from the world wide web, and that it is housed
 - extract valuable data from other formats, such as JSON, or from within databases.
 - regex should be your best friend.
 
+### 2. Cookbooks
+
+- 2.1 [Cookbook](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/wiki_Corpus/wikipedia_DataExtract.py)
+   
+- 2.2 [Data Cleaning Utility](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/twitter/twitterDataExtract.py)
 
 > :pushpin: There are a variety of pre-processing methods. This [cookbook]() is far from exclusive list but it does give an idea of where to start. It concentrates on possible noise elements and how you could clean them step by step. 
 It is important to realize, like with all data problems, converting anything into a format for machine learning reduces it to a generalized state which means losing some of the fidelity of the data along the way. I have devised few tricks while working with a lot of textual data. If you follow the above steps to clean the data, you can drastically improve the accuracy of your results and draw better insights. The true art is understand the pros and cons to each to carefully chose the right methods.
