@@ -69,6 +69,8 @@ Chunking works on top of POS tagging, it uses pos-tags as input and provides chu
 
 There are a lot of libraries which gives phrases out-of-box such as Spacy or TextBlob.
 
+### Cookbooks
+**- [Cookbook](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/3_PartOfSpeech_Tagging/pos_cookbook.ipynb)**
 
 
 
