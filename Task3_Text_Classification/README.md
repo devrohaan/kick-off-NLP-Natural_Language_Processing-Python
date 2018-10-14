@@ -93,7 +93,7 @@ Some additional simple scoring methods include:
 **Frequencies**: Calculate the frequency that each word appears in a document out of all the words in the document.
 
 
-The code for building a Bow model is shown as: [BOW]()
+The code for building a Bow model is shown as: [BOW](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/Task3_Text_Classification/BOW.py)
 
 > :pushpin: A more sophisticated approach is to create a vocabulary of grouped words. This both changes the scope of the vocabulary and allows the bag-of-words to capture a little bit more meaning from the document.
 
