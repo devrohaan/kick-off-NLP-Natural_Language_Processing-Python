@@ -75,6 +75,10 @@ There are, however, numerous other steps which we learrned in previous write-up 
 -	strip white space (also generally part of tokenization).
 -	remove default stop words (general English stop words).
 
+### 2. Cookbooks
+**- [Cookbook](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/2_Data_Preprocessing_Normalization/Data_Preprocessing_Example.ipynb)**
+
+**- [Data Cleaning Utility](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/2_Data_Preprocessing_Normalization/functions_cookbook.py)**
 
 ## :bulb: Trade-off: Normalization vs. Information
 
