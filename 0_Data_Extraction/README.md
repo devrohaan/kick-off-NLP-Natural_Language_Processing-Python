@@ -46,8 +46,9 @@ To extract data from Internet, I rely heavily on two major techniques given belo
 ### 1. [Web Scraping](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup)
 Kindly visit my [kick-off-web-scraping-python-selenium-beautifulsoup](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup) for quick understanding of web scraping.
 ### 2. Online Datasets
- -   2.1 [Wikipedia](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/wiki_Corpus/wikipedia_DataExtract.py)
- -   2.2 [Twitter](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/twitter/twitterDataExtract.py)
+   2.1 [Wikipedia](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/wiki_Corpus/wikipedia_DataExtract.py)
+   
+   2.2 [Twitter](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/twitter/twitterDataExtract.py)
 
 ### 3. Examples:
 
