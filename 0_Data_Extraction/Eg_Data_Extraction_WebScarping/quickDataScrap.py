@@ -18,7 +18,7 @@ import time
 import pickle
 import re
 import sys
-sys.path.append("/Users/Rohan/Desktop/3rdAug/NLP/0_Data_Extraction/Eg_Data_Extraction_WebScarping")
+sys.path.append("/Users/Rohan/git/NLP/0_Data_Extraction/Eg_Data_Extraction_WebScarping")
 from WebDriver import WebDriver
 
 url = "https://www.worldclasslearning.com/akbar-birbal-stories/index.html"
