@@ -177,6 +177,7 @@ Now, let us compare the TF-IDF for a common word ‘he’ and a word ‘Ronaldo�
 
 As, you can see for Doc1 , TF-IDF method heavily penalises the words goals, he, is but assigns greater weight to Ronaldo. So, this may be understood as Ronaldo is an important word for Document1 from the context of the entire corpus.
 
+### Example: [TF-IDF](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/5_Word_Embeddings/TF_IDF_RonaldoDoc_EarthDoc.ipynb)
 
 ###### 1.3 Co-Occurrence Matrix with a fixed context window
 
