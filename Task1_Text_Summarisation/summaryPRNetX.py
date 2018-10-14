@@ -41,8 +41,6 @@ text = """
 
       """
       
-
-a=set([word for word in "ROhan is the zhatu".split() if word not in stop_words])
        
 sentences = sent_tokenize(text)
 cleansentences = []
