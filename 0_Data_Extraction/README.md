@@ -46,21 +46,25 @@ To extract data from Internet, I rely heavily on two major techniques given belo
 ### 1. [Web Scraping](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup)
 Kindly visit my [kick-off-web-scraping-python-selenium-beautifulsoup](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup) for quick understanding of web scraping.
 ### 2. Online Datasets
+
    2.1 [Wikipedia](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/wiki_Corpus/wikipedia_DataExtract.py)
    
    2.2 [Twitter](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/twitter/twitterDataExtract.py)
 
 ### 3. Examples:
 
-   4.1 [Glassdoor_jobs](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup/tree/master/glassdoor_jobs)
+   3.1 [Glassdoor_jobs](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup/tree/master/glassdoor_jobs)
    
-   4.2 [Pablo_quotes](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup/tree/master/pablo_quotes)
+   3.2 [Pablo_quotes](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup/tree/master/pablo_quotes)
    
-   4.3 [Premier_League_score_table](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup/tree/master/premier_league_score_table)
+   3.3 [Premier_League_score_table](https://github.com/robagwe/kick-off-web-scraping-python-selenium-beautifulsoup/tree/master/premier_league_score_table)
    
-   4.4 [Bhagavad Gita Lessons](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/ScrapDataK/scrapDataKCDIssue.py)
+   3.4 [Bhagavad Gita Lessons](https://githu### 2. Online Datasets
+ -   2.1 [Wikipedia](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/wiki_Corpus/wikipedia_DataExtract.py)
+ -   2.2 [Twitter](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/twitter/twitterDataExtract.py)
+b.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/ScrapDataK/scrapDataKCDIssue.py)
    
-   4.5 [Akbar_Birbal_Stories](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/Eg_Data_Extraction_WebScarping/quickDataScrap.py)
+   3.5 [Akbar_Birbal_Stories](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/0_Data_Extraction/Eg_Data_Extraction_WebScarping/quickDataScrap.py)
 
 ## NLP Free Datasets links & credits
 *I have tried to provide a mixture of datasets that are popular for use in academic papers that are modest in size.
