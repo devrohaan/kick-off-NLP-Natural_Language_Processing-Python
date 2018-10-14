@@ -41,6 +41,11 @@ So, I decided to bring all these resources to one place and make a kick-off dige
   
   [10. Sentiment Analysis](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Task2_Sentiment_Analysis)
   
+ **[Toolbox]()**
+ 
+ **[Data]()**
+ 
+ 
 ### Key Concepts in NLP
 
 | Concepts | Explanation |
