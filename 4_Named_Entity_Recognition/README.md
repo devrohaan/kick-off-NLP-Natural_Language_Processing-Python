@@ -36,6 +36,10 @@ Entities are defined as the most important chunks of a sentence – noun phrases
 
 	Named Entities –  ( “person” : “Sergey Brin” ), (“org” : “Google Inc.”), (“location” : “New York”)
 
+### Cookbooks
+**- [Cookbook](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/3_PartOfSpeech_Tagging/pos_cookbook.ipynb)**
+
+
 ### A typical NER model consists of three blocks:
 
 **Noun phrase identification**: This step deals with extracting all the noun phrases from a text using dependency parsing and part of speech tagging.
