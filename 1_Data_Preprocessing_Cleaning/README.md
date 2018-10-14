@@ -58,6 +58,7 @@ Let's assume we obtained a corpus from the world wide web, and that it is housed
 
 ### 2. Cookbooks
 **- [Cookbook](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/1_Data_Preprocessing_Cleaning/cookbook.py.ipynb)**
+
 **- [Data Cleaning Utility](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/1_Data_Preprocessing_Cleaning/functions_cookbook.py)**
 
 > :pushpin: There are a variety of pre-processing methods. This [cookbook]() is far from exclusive list but it does give an idea of where to start. It concentrates on possible noise elements and how you could clean them step by step. 
