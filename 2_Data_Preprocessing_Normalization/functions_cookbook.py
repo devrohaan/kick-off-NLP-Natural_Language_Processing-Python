@@ -18,7 +18,7 @@ import inflect
 
 
 dataset = list()
-with open('/Users/Rohan/Desktop/3rdAug/NLP/data/Story.pkl', 'rb') as handle:
+with open('/Users/Rohan/git/NLP/data/Story.pkl', 'rb') as handle:
     
     dataset = pickle.load(handle)
             
