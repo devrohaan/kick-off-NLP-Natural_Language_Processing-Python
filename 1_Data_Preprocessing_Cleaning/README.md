@@ -57,9 +57,8 @@ Let's assume we obtained a corpus from the world wide web, and that it is housed
 - regex should be your best friend.
 
 ### 2. Cookbooks
-
-##### - [Cookbook](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/1_Data_Preprocessing_Cleaning/cookbook.py.ipynb)
-##### - [Data Cleaning Utility](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/1_Data_Preprocessing_Cleaning/functions_cookbook.py)
+**- [Cookbook](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/1_Data_Preprocessing_Cleaning/cookbook.py.ipynb)**
+**- [Data Cleaning Utility](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/1_Data_Preprocessing_Cleaning/functions_cookbook.py)**
 
 > :pushpin: There are a variety of pre-processing methods. This [cookbook]() is far from exclusive list but it does give an idea of where to start. It concentrates on possible noise elements and how you could clean them step by step. 
 It is important to realize, like with all data problems, converting anything into a format for machine learning reduces it to a generalized state which means losing some of the fidelity of the data along the way. I have devised few tricks while working with a lot of textual data. If you follow the above steps to clean the data, you can drastically improve the accuracy of your results and draw better insights. The true art is understand the pros and cons to each to carefully chose the right methods.
