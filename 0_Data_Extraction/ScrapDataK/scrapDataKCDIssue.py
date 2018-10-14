@@ -19,7 +19,7 @@ import pandas as pd
 import pickle
 import re
 import sys
-sys.path.append("/Users/Rohan/Desktop/3rdAug/NLP/0_Data_Extraction/ScrapDataK")
+sys.path.append("/Users/Rohan/git/NLP/0_Data_Extraction/ScrapDataK")
 from WebDriver import WebDriver
 
 url = "http://www.gita-society.com/bhagavadgita_children.html"
