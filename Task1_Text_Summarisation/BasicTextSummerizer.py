@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Sep  9 12:36:08 2018
-
-21984
+Created on Sun Sep 15 22:54:18 2018
 @author: Rohan
 """
 from nltk import sent_tokenize
