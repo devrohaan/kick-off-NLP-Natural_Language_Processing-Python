@@ -133,9 +133,8 @@ Take a Burger King bot for example. It acts as a virtual waiter that takes your 
 - **Automatic summarizer** 
 Given the input text, the task is to write a summary of text discarding irrelevant points.
 
-------
 
-###### Apart from application in Big Data, Log Mining, and Log Analysis it has other major application areas. Although the term ‘NLP’ is not as popular as ‘big data’ ‘machine learning’ but we are using NLP every day.
+ > :pushpin: Apart from application in Big Data, Log Mining, and Log Analysis it has other major application areas. Although the term ‘NLP’ is not as popular as ‘big data’ ‘machine learning’ but we are using NLP every day.
 
 
 
