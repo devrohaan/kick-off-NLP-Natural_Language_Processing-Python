@@ -56,7 +56,7 @@ Let's assume we obtained a corpus from the world wide web, and that it is housed
 - extract valuable data from other formats, such as JSON, or from within databases.
 - regex should be your best friend.
 
-### 2. Cookbooks
+### Cookbooks
 **- [Cookbook](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/1_Data_Preprocessing_Cleaning/cookbook.py.ipynb)**
 
 **- [Data Cleaning Utility](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/1_Data_Preprocessing_Cleaning/functions_cookbook.py)**
