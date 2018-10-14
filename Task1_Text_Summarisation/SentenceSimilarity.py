@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Sep  9 19:21:56 2018
-
+Created on Sun Sep 14 02:12:48 2018
 @author: Rohan
 """
-
 from nltk.corpus import brown
 from nltk.cluster.util import cosine_distance
 
