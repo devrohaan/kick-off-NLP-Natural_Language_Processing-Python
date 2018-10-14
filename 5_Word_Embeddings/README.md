@@ -110,6 +110,7 @@ Words model
 
 > :pushpin: We might have a corpus which contains millions of documents. And with millions of document, we can extract hundreds of millions of unique words. So basically, the matrix that will be prepared like above will be a very sparse one and inefficient for any computation. So an alternative to using every unique word as a dictionary element would be to pick say top 10,000 words based on frequency and then prepare a dictionary.
 
+### Example: [Cookbook](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/edit/master/5_Word_Embeddings/Freq_based_Embeddings.py)
 
 ###### 1.2 Term Frequency – Inverse Document Frequency
 
