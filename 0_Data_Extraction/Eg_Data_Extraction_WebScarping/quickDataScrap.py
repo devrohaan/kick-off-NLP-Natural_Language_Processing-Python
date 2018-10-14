@@ -5,7 +5,7 @@ Created on Wed Jun  6 11:00:10 2018
 
 @author: Rohan
 
-Simple Python Web Scraper: English Premier League score table updates
+Simple Python Web Scraper: Akbar Birbal Stories
 
 Script Requirements: Python3, BeautifulSoup, Selenium, PhantomJS, csv, time, pandas, tabulate, pickle
 
