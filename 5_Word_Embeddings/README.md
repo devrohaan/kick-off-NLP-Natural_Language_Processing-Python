@@ -97,14 +97,15 @@ The count matrix M of size 2 X 15 will be represented as –
 
 ###### The word vector for **'France'** in the above matrix is **[2,1]** and so on. Here, the rows correspond to the documents in the corpus and the columns correspond to the tokens in the dictionary. 
 
-### Bag of Words model
+### 
+Words model
 
 > Segment each text file into words
 > Count number of times each word occurs in each document 
 > Assign each word an integer id. 
 > **Each unique word in our dictionary will correspond to a feature (descriptive feature)**
 
-> :pushpin: Creating [Bag of Words]() model
+> :pushpin: Creating [Bag of Words](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/Task3_Text_Classification/BOW.py) model
 
 
 > :pushpin: We might have a corpus which contains millions of documents. And with millions of document, we can extract hundreds of millions of unique words. So basically, the matrix that will be prepared like above will be a very sparse one and inefficient for any computation. So an alternative to using every unique word as a dictionary element would be to pick say top 10,000 words based on frequency and then prepare a dictionary.
