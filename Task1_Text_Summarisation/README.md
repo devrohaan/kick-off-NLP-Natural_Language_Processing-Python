@@ -67,6 +67,12 @@ The following paper is good starting point to overview the LSA.
 
 :scroll: [Paper Text summarization using Latent Semantic Analysis](https://www.researchgate.net/publication/220195824_Text_summarization_using_Latent_Semantic_Analysis)
 
+#### Example
+
+- [Basic Text Summerizer](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/Task1_Text_Summarisation/BasicTextSummerizer.py)
+- [Sentence Similarity](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/Task1_Text_Summarisation/SentenceSimilarity.py)
+- [Text Summerizer: Page Rank, NetworkX](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/Task1_Text_Summarisation/summaryPRNetX.py)
+
 #### Implementation:
 
 - [models.lsimodel – Latent Semantic Indexing](https://radimrehurek.com/gensim/models/lsimodel.html)
