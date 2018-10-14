@@ -21,7 +21,7 @@ So, I decided to bring all these resources to one place and make a kick-off dige
 
 ## 📄 Table of contents
 
-  * [0. Introduction]
+  * [0. Introduction](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/tree/master/Introduction)
   * [0. Introduction]
   * [0. Introduction]
   * [0. Introduction]
