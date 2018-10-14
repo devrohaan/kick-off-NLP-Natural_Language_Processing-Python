@@ -13,7 +13,7 @@
 > :pushpin: Summarization is mainly useful because it condenses information for easier consumption and analysis. 
 
 ![TC](https://github.com/robagwe/wisdomic-panda/blob/master/imgs/sum.jpg)
-
+<img src="https://github.com/robagwe/wisdomic-panda/blob/master/imgs/sum.jpg" width="700">
 
 ## [Extractive approach Vs Abstractive approach](http://thescipub.com/PDF/jcssp.2016.178.190.pdf)
 
