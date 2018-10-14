@@ -209,7 +209,7 @@ We can summarize co-occurrence statistics for words 'a' and 'friend' as:
 The above table shows that '**a**'' is followed twice by '**friend**' while words **indeed** and **best** appear once around '**friend**' in our corpus. Thus, **indeed** is one out of two times probable to appear after '**friend**'.
 
  The count shown above is called bigram frequency; it looks into only the next word from a current word. 
-###### [SC_NgramGenerate]()
+###### [NgramGenerate](https://github.com/robagwe/kick-off-NLP-Natural_Language_Processing-Python/blob/master/5_Word_Embeddings/NgramGenerate.py)
 
  Given a corpus of N words, we need a table of size NxN to represent bigram frequencies of all possible word-pairs. Such a table is highly sparse as most frequencies are equal to zero. ### In practice, the co-occurrence counts are converted to probabilities.
 
