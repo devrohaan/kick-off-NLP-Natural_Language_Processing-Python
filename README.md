@@ -9,7 +9,7 @@
 
 ![Rosie](https://github.com/robagwe/wisdomic-panda/blob/master/imgs/1.gif)
 
-My belief in machine intelligence grew stronger as I became acquainted with artificial personalities like Eliza and Alice that were capable of processing natural language. Today we see how Deep Learning, a branch of Machine Learning techniques, has obtained a high performance in generating rational conclusions in Natural Language Processing (or NLP) as Alexa, Siri, Cortana and Google Assistant are no less to JARVIS.*
+*My belief in machine intelligence grew stronger as I became acquainted with artificial personalities like Eliza and Alice that were capable of processing natural language. Today we see how Deep Learning, a branch of Machine Learning techniques, has obtained a high performance in generating rational conclusions in Natural Language Processing (or NLP) as Alexa, Siri, Cortana and Google Assistant are no less to JARVIS.*
 
 
 After having been working on NLP problems, I have encountered various situations where I had to refer to a large number of different research papers, NLP blogs and competitions to study about the latest developments.
